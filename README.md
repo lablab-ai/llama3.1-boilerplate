@@ -77,7 +77,7 @@ Ensure your development environment meets the following requirements:
 To start the translation app, run the following command:
 
 ```bash
-python main.py
+streamlit run main.py
 ```
 
 This will launch the Streamlit app, where you can input text for translation, select source and target languages, and view results such as translation output, sentiment analysis, and cultural reference explanations.
